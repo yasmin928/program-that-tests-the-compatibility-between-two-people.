@@ -2,7 +2,7 @@
 print("Welcome to the Love Calculator!")
 # Input your name and your partenar
 name1 = input("What is your name? \n")
-name2 = input("What is their name? \n")
+name2 = input("What is their name? \n") 
 
 compine_name = name1 +name2
 
